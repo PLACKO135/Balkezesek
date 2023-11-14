@@ -1,0 +1,5 @@
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-14\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.csproj.AssemblyReference.cache
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-14\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-14\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.AssemblyInfoInputs.cache
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-14\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.AssemblyInfo.cs
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-14\Balkezesek\Balkezesek\obj\Debug\net6.0\Balkezesek.csproj.CoreCompileInputs.cache
