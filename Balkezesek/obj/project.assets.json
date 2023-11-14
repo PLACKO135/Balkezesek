@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\papp.laszlo.levente\\.nuget\\packages\\": {}
+    "C:\\Users\\Intel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\papp.laszlo.levente\\Desktop\\Papp László Levente\\2023-11-14\\Balkezesek\\Balkezesek\\Balkezesek.csproj",
+      "projectUniqueName": "C:\\Users\\Intel\\OneDrive\\Dokumentumok\\házi\\Balkezesek-main\\Balkezesek\\Balkezesek.csproj",
       "projectName": "Balkezesek",
-      "projectPath": "C:\\Users\\papp.laszlo.levente\\Desktop\\Papp László Levente\\2023-11-14\\Balkezesek\\Balkezesek\\Balkezesek.csproj",
-      "packagesPath": "C:\\Users\\papp.laszlo.levente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\papp.laszlo.levente\\Desktop\\Papp László Levente\\2023-11-14\\Balkezesek\\Balkezesek\\obj\\",
+      "projectPath": "C:\\Users\\Intel\\OneDrive\\Dokumentumok\\házi\\Balkezesek-main\\Balkezesek\\Balkezesek.csproj",
+      "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Intel\\OneDrive\\Dokumentumok\\házi\\Balkezesek-main\\Balkezesek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\papp.laszlo.levente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
